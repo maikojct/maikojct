@@ -13,8 +13,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png.svg"
-  <img align="center" alt="Node" height="30" width="35" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+  <img align="center" alt="CSS" height="30" width="40" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png.svg">
+  <img align="center" alt="Node" height="30" width="35" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
 </div>
  
  <br>
