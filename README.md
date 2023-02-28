@@ -16,6 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
   <img align="center" alt="Node" height="30" width="35" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+      <img align="center" alt="Node" height="30" width="35" src="https://image.pngaaa.com/875/2507875-small.png">
 </div>
  
  <br>
