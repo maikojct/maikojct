@@ -26,5 +26,5 @@
 <div> 
   <a href = "mailto:maikotoporoski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maiko-toporoski-ab2598123" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <a href = "https://maikotoporoski.com.br/"><img src="https://www.rodcarvalho.dev/images/icons/link.svg" target="_blank"></a>
 </div>
