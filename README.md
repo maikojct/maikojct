@@ -7,6 +7,8 @@
 </div>
   
   <h2>Front End Developer 📖</h2> 
+  
+  <p>I am a front-end developer passionate about creating amazing user experiences and intuitive interfaces for the web. With experience in HTML, CSS, JavaScript and their frameworks. I am always looking for the best practices and technologies to improve the efficiency and quality of my work.</p>
 
 </div>
 <div style="display: inline_block"><br>
