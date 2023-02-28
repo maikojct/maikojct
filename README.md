@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🤘
+## Welcome to my profile 🤘
 
 <div>
 <a href="https://github.com/MaikoJCT">
@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaikoJCT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <h2>Estudante de Programação e Análise e Desenvolvimento de Sistemas 📖</h2> 
+  <h2>Front End Developer 📖</h2> 
 
 </div>
 <div style="display: inline_block"><br>
