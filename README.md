@@ -6,9 +6,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaikoJCT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <h2>Front End Developer 📖</h2> 
+  <h2>Full Stack Developer 📖</h2> 
   
-  <p>I am a front-end developer passionate about creating amazing user experiences and intuitive interfaces for the web. With experience in HTML, CSS, JavaScript and their frameworks. I am always looking for the best practices and technologies to improve the efficiency and quality of my work.</p>
+  <p>I am a full stack developer passionate about creating amazing user experiences and intuitive interfaces. I am always looking for the best practices and technologies to improve the efficiency and quality of my work.</p>
 
 </div>
 <div style="display: inline_block"><br>
